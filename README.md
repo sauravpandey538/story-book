@@ -70,3 +70,13 @@ Open the URL shown in the terminal (e.g. `http://localhost:5173`).
 | All site text, names, links, book copy | `src/data/data.ts` |
 | Book pages (memories), dates, titles, intros, images | `src/data/memories.ts` |
 | Image files | Add under `/public` and use paths like `"/foldername/imagename.jpg"` |
+
+---
+
+## License
+
+**Personal use** — Free. Use and modify for your own personal, non-commercial projects.
+
+**Commercial use** — Requires a license. Contact **sauravpandey0325@gmail.com** to request one.
+
+See [LICENSE](LICENSE) for full terms.
