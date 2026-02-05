@@ -32,6 +32,9 @@ export function OurStorySection() {
 
         {/* Book sits on a white "page" surface on cream background */}
         <MemoryBook />
+        <p className="font-body mt-2 text-xs text-muted-foreground">
+          [Laptop Recommended for Best Experience]
+        </p>
         <p className="font-body mt-2 text-sm text-muted-foreground">
           {ourStory.instruction}
         </p>

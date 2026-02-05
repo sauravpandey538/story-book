@@ -21,7 +21,7 @@ export const memories: Memory[] = [
     title: "The Fence",
     intro:
       "I first noticed the garden on a damp March morning. A low wooden fence, weathered and leaning, marked the boundary between the lane and something wilder. Beyond it, the grass was already greening.",
-    images: [generateImageUrl(1)],
+    images: [generateImageUrl(1), generateImageUrl(11), generateImageUrl(12)],
   },
   {
     id: 2,
@@ -29,7 +29,12 @@ export const memories: Memory[] = [
     title: "Daffodils",
     intro:
       "By April the daffodils had come up in clumps—bright yellow against the old stone wall. I started walking past the garden on purpose, just to see what would bloom next.",
-    images: [generateImageUrl(2)],
+    images: [
+      generateImageUrl(2),
+      generateImageUrl(13),
+      generateImageUrl(14),
+      generateImageUrl(15),
+    ],
   },
   {
     id: 3,
@@ -37,7 +42,12 @@ export const memories: Memory[] = [
     title: "The Gate",
     intro:
       "One evening the gate was ajar. I pushed it open and stepped inside. No one shouted; no dog ran out. Only the hum of bees and the smell of lilac.",
-    images: [generateImageUrl(3)],
+    images: [
+      generateImageUrl(3),
+      generateImageUrl(16),
+      generateImageUrl(17),
+      generateImageUrl(18),
+    ],
   },
   {
     id: 4,
@@ -45,7 +55,12 @@ export const memories: Memory[] = [
     title: "The Bench",
     intro:
       "I found a bench under the apple tree, paint flaking, slats warm in the sun. I sat there with a book I never opened and watched the light move across the roses.",
-    images: [generateImageUrl(4)],
+    images: [
+      generateImageUrl(4),
+      generateImageUrl(19),
+      generateImageUrl(20),
+      generateImageUrl(21),
+    ],
   },
   {
     id: 5,
@@ -61,7 +76,7 @@ export const memories: Memory[] = [
     title: "The Note",
     intro:
       'Tucked under a flowerpot was a note: "If you’re reading this, you’re welcome here. The garden has missed company." No name, no date. I folded it and kept it in my pocket.',
-    images: [generateImageUrl(6)],
+    images: [generateImageUrl(6), generateImageUrl(22), generateImageUrl(23)],
   },
   {
     id: 7,
@@ -77,7 +92,12 @@ export const memories: Memory[] = [
     title: "Meeting",
     intro:
       'I finally met her—white hair, dirt under her nails, kneeling by the asters. "So you’re the one who’s been sitting on my bench," she said. She smiled. "I’m glad."',
-    images: [generateImageUrl(8)],
+    images: [
+      generateImageUrl(8),
+      generateImageUrl(25),
+      generateImageUrl(26),
+      generateImageUrl(27),
+    ],
   },
   {
     id: 9,
@@ -85,7 +105,12 @@ export const memories: Memory[] = [
     title: "Seeds",
     intro:
       'She gave me a brown paper envelope full of seeds. "For next spring," she said. "Plant them wherever you like. The garden doesn’t end at the fence."',
-    images: [generateImageUrl(9)],
+    images: [
+      generateImageUrl(9),
+      generateImageUrl(28),
+      generateImageUrl(29),
+      generateImageUrl(30),
+    ],
   },
   {
     id: 10,
@@ -93,7 +118,7 @@ export const memories: Memory[] = [
     title: "The Garden at the Edge of Town",
     intro:
       "Winter is coming. The bench is empty now, the gate closed. But I have the seeds, and I know the way back. Some places wait for you. This one did.",
-    images: [generateImageUrl(10)],
+    images: [generateImageUrl(10), generateImageUrl(31), generateImageUrl(32)],
   },
 ];
 
